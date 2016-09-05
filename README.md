@@ -1,4 +1,4 @@
-"# simple-C-task-scheduler" 
+# simple-C-task-scheduler
 
 1. to compile on HPUX
 
